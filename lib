@@ -66,12 +66,12 @@ local library = {
         ['ping'] = 0;
     };
     images = {
-        ['gradientp90'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/gradientp90.oh'; -- gradient90
-        ['gradientp45'] = 'https://raw.githubusercontent.com//aphixeaphixeaphixeaphixeaphixeaphixe/img/main/gradientp45.oh'; -- gradient45
-        ['colorhue'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorhue.oh'; -- colorhue
-        ['colorsat1'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorsat1.oh'; -- colorsat1
-        ['colorsat2'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorsat2.oh'; -- colorsat2
-        ['colortrans'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colortrans.oh'; -- colortrans
+        ['gradientp90'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/gradientp90.png'; -- gradient90
+        ['gradientp45'] = 'https://raw.githubusercontent.com//aphixeaphixeaphixeaphixeaphixeaphixe/img/main/gradientp45.png'; -- gradient45
+        ['colorhue'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorhue.png'; -- colorhue
+        ['colorsat1'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorsat1.png'; -- colorsat1
+        ['colorsat2'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colorsat2.png'; -- colorsat2
+        ['colortrans'] = 'https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/colortrans.png'; -- colortrans
     };
     numberStrings = {['Zero'] = 0, ['One'] = 1, ['Two'] = 2, ['Three'] = 3, ['Four'] = 4, ['Five'] = 5, ['Six'] = 6, ['Seven'] = 7, ['Eight'] = 8, ['Nine'] = 9};
     signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/aphixeaphixeaphixeaphixeaphixeaphixe/img/main/sig'))();
